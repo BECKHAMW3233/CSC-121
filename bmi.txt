@@ -1,0 +1,5 @@
+P0123, 24.21, Normal
+P4354, 24.93, Normal
+p9586, 28.89, Overweight
+p9768, 26.71, Overweight
+p0084, 18.01, Underweight

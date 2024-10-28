@@ -1,0 +1,6 @@
+Patient ID,Height,Weight,BMI,Weight Status
+P0123,66.0,150.0,24.21,Normal
+P4354,68.0,164.0,24.93,Normal
+p9586,66.0,179.0,28.89,Overweight
+p9768,50.0,95.0,26.71,Overweight
+p0084,67.0,115.0,18.01,Underweight
