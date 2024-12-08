@@ -1,0 +1,7 @@
+tier,title,attack,defense,health,min_xp,weapon,armor,special_ability
+1,Farmer,3,3,25,0,Pitchfork,Rags,none
+2,Scout,3,4,30,20,Dagger,Light Leather Armour,sneak
+3,Warrior,4,5,45,50,Short Sword,Light Chainmail Armour,block
+4,Captain,4,6,55,150,Sword,Med Plate Armour,rally
+5,Champion,5,7,70,400,2 Handed Axe,Heavy Armour,charge
+6,King,5,8,100,700,2 Handed Axe,Heavy Knight Armour,command

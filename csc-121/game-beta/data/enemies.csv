@@ -1,0 +1,22 @@
+name,tier,attack,defense,health,xp_value,min_copper,max_copper,common_drops,rare_drops,spawn_chance
+Goblin,1,2,2,10,1,5,15,Lesser Health Potion,Dagger,0.3
+Rat,1,1,1,8,1,3,10,Lesser Health Potion,Short Sword,0.3
+Bandit,1,2,1,12,1,10,20,Lesser Health Potion,Light Leather Armour,0.2
+Wolf,1,3,1,9,1,5,12,Lesser Health Potion,Throwing Knives,0.2
+Orc,2,3,3,15,2,15,30,Health Potion,Light Leather Armour,0.25
+Skeleton,2,2,2,18,2,12,25,Health Potion,Short Sword,0.25
+Dark Elf,2,4,2,14,2,20,35,Health Potion,Long Bow,0.25
+Ghost,2,3,4,16,2,18,32,Health Potion,Mace,0.25
+Ogre,3,3,4,20,3,25,50,Health Potion,Light Chainmail Armour,0.2
+Werewolf,3,5,2,22,3,30,55,Health Potion,2 Handed Axe,0.2
+Vampire,3,4,3,25,3,35,60,Health Potion,Sword,0.2
+Giant Spider,3,3,3,23,3,28,52,Health Potion,Tower Shield,0.2
+Troll,4,3,4,25,4,40,80,Greater Health Potion,Med Plate Armour,0.15
+Stone Golem,4,4,5,30,4,45,85,Greater Health Potion,Heavy Armour,0.15
+Demon,4,5,3,28,4,50,90,Greater Health Potion,Crossbow,0.15
+Dark Knight,5,4,5,35,5,60,120,Greater Health Potion,Heavy Armour,0.1
+Lich,5,6,3,32,5,65,125,Greater Health Potion,2 Handed Axe,0.1
+Death Knight,5,5,4,38,5,70,130,Greater Health Potion,Heavy Knight Armour,0.1
+Dragon,6,5,6,50,6,100,200,Greater Health Potion,Heavy Knight Armour,0.05
+Ancient Wyrm,6,7,5,55,6,120,220,Greater Health Potion,2 Handed Axe,0.05
+Demon Lord,6,6,6,60,6,150,250,Greater Health Potion,Heavy Knight Armour,0.05

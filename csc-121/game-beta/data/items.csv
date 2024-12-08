@@ -1,0 +1,26 @@
+name,type,base_damage_min,base_damage_max,base_defense,price_copper,tier,durability,effect
+Pitchfork,weapon,0.5,1,0,50,1,100,none
+Sword,weapon,1,1.5,0,500,3,150,none
+Short Sword,weapon,0.9,1.2,0,300,2,125,none
+2 Handed Axe,weapon,1.25,1.75,0,750,4,175,none  
+Dagger,weapon,0.5,1.1,0,150,1,75,none
+Mace,weapon,0.75,1.25,0,400,2,130,stun
+Crossbow,ranged,1.2,1.5,0,600,3,100,none
+Long Bow,ranged,1,1.4,0,350,2,80,none
+Throwing Knives,ranged,0.6,0.9,0,100,1,50,bleed
+Shield,shield,0,0,2,200,1,125,none
+Tower Shield,shield,0,0,2.5,500,3,175,none  
+Rags,armor,0,0,1,25,1,50,none
+Light Leather Armour,armor,0,0,1.15,200,2,100,none
+Light Chainmail Armour,armor,0,0,1.75,400,3,150,none
+Med Plate Armour,armor,0,0,2.0,600,4,200,none
+Heavy Armour,armor,0,0,2.75,800,5,250,none
+Heavy Knight Armour,armor,0,0,3.1,1000,6,300,none
+Lesser Health Potion,consumable,0,0,0,50,1,1,heal_5
+Health Potion,consumable,0,0,0,150,2,1,heal_15
+Greater Health Potion,consumable,0,0,0,300,3,1,heal_30
+Antidote,consumable,0,0,0,75,1,1,cure_poison  
+Lockpick,tool,0,0,0,25,1,10,unlock
+Grappling Hook,tool,0,0,0,150,2,25,climb
+Torch,tool,0,0,0,10,1,50,light
+Rope,tool,0,0,0,50,1,100,none
